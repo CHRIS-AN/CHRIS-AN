@@ -33,3 +33,10 @@
  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </span>
 
+
+
+
+----
+
+## solved.ac _Rank_
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=devnuts)](https://solved.ac/devnuts/)
