@@ -10,15 +10,6 @@
 * Currently self-learning service app development with a passion for improvement
 
 
-## Contacts
-<p align="center">
-  <a href="https://devnuts.tistory.com/">
-   <img src="https://img.shields.io/badge/Tech-blog-black?style=flat-square&link=https://devnuts.tistory.com/"/>
- </a>  
-  <a href="mailto:anhohyun92@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anhohyun92@gmail.com"/>
-  </a>
-</p>
 
 ## Stacks
 #### Language
@@ -44,6 +35,15 @@
 </span>
 
 
+## Contacts
+<p align="">
+  <a href="https://devnuts.tistory.com/">
+   <img src="https://img.shields.io/badge/Tech-blog-black?style=flat-square&link=https://devnuts.tistory.com/"/>
+ </a>  
+  <a href="mailto:anhohyun92@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anhohyun92@gmail.com"/>
+  </a>
+</p>
 
 
 ----
