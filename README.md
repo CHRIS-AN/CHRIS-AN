@@ -1,4 +1,14 @@
+## Profile
  Hi there 👋
+
+* A Java developer who dreams in Java and is always striving to grow and enhance technical abilities
+
+* Worked on financial software with a solid grasp of Java and Spring
+
+* Passionate about writing efficient and clean code and interested in mobile app development
+
+* Currently self-learning service app development with a passion for improvement
+
 
 ## Contacts
 <p align="center">
