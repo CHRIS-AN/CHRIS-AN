@@ -20,7 +20,7 @@
   </a>
 </p>
 
-## STACKS
+## Stacks
 #### Language
 <span>
  <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=blue&color=purple" />
