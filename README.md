@@ -37,5 +37,7 @@
 
 
 ----
+<!--
 ## solved.ac _Rank_
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=devnuts)](https://solved.ac/devnuts/)
+-->
